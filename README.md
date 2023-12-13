@@ -17,6 +17,6 @@
 Front-End student passionate about technology and dedicated to becoming better every day.
 
 ##Contact:##<br/>
-  E-mail: diocardoso@hotmail.com<br/>
+  E-mail: diocardosodev@gmail.com<br/>
   Phone: +55 81 98158 5919<br/>
-  WhatsApp: +55 81 99979 2540
+  WhatsApp: +55 81 98158 5919
