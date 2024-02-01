@@ -3,10 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-tcardoso/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo.tcardoso/)
 
-<div>
-<a href="https://github.com/diogo-tcardoso">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diogo-tcardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-tcardoso&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
