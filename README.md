@@ -14,7 +14,7 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Front-End student passionate about technology and dedicated to becoming better every day.
+Front-End developer passionate about technology and dedicated to becoming better every day.
 
 ##Contact:##<br/>
   E-mail: diocardosodev@gmail.com<br/>
