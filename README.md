@@ -5,7 +5,7 @@
 
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-tcardoso&theme=gruvbox&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-tcardoso&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-tcardoso&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br>
